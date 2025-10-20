@@ -7,22 +7,19 @@ INTERVAL_SIZE = 20  # intervalo de busca
 MAX_RANDOM_RESTARTS = 5  # numero de tentativas com pontos iniciais aleatorios
 
 
-# Função para maximizar
-
-
 def func_to_max(x) -> int:
+    # Função para maximizar
     return -1*x**2 + 4*x + 4
-
-# Função para minimizar
 
 
 def func_to_min(x) -> int:
+    # Função para minimizar
     return -10*x**4 + 5*x**6 + 1
-
-# Algoritmo Hill Climbing
 
 
 def hill_climb(start, min: bool = False) -> int | bool:
+    """ Executa o algoritmo de Hill Climbing a partir de um ponto inicial.
+    Retorna o melhor resultado encontrado."""
     current_x = start
     # Avalia o valor inicial e escolhe a função correta com base no objetivo
     current_y = func_to_min(current_x) if min else func_to_max(current_x)
