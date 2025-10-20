@@ -5,7 +5,6 @@ Devem ser apresentados os seguintes projetos, todos desenvolvidos obrigatoriamen
 2. Projeto de busca não informada;
 3. Projeto de busca complexa;
 4. Projeto de algoritmo genético;
-
 5. Projeto utilizando CSPs e seus métodos para solução de um problema;
 6. Projeto utilizando os conceitos de banco de conhecimentos para solução de um problema.
 Todos os projetos devem ser apresentados em arquivo .py comentado e com documento
