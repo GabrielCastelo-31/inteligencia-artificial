@@ -1,0 +1,166 @@
+{
+  "AC": [
+    "Amazonas",
+    "Rondônia"
+  ],
+  "AL": [
+    "Bahia",
+    "Pernambuco",
+    "Sergipe"
+  ],
+  "AM": [
+    "Acre",
+    "Mato Grosso",
+    "Pará",
+    "Rio Grande do Sul",
+    "Rondônia",
+    "Roraima",
+    "Santa Catarina"
+  ],
+  "AP": [
+    "Pará"
+  ],
+  "BA": [
+    "Alagoas",
+    "Espírito Santo",
+    "Goiás",
+    "Minas Gerais",
+    "Paraíba",
+    "Pernambuco",
+    "Piauí",
+    "Sergipe",
+    "Tocantins"
+  ],
+  "CE": [
+    "Paraíba",
+    "Pernambuco",
+    "Piauí",
+    "Rio Grande do Norte"
+  ],
+  "DF": [
+    "Goiás",
+    "Minas Gerais"
+  ],
+  "ES": [
+    "Bahia",
+    "Minas Gerais",
+    "Rio de Janeiro"
+  ],
+  "GO": [
+    "Bahia",
+    "Distrito Federal",
+    "Mato Grosso",
+    "Mato Grosso do Sul",
+    "Minas Gerais",
+    "Tocantins"
+  ],
+  "MA": [
+    "Pará",
+    "Piauí",
+    "Tocantins"
+  ],
+  "MG": [
+    "Bahia",
+    "Distrito Federal",
+    "Espírito Santo",
+    "Goiás",
+    "Mato Grosso do Sul",
+    "Rio de Janeiro",
+    "São Paulo"
+  ],
+  "MS": [
+    "Goiás",
+    "Mato Grosso",
+    "Minas Gerais",
+    "Paraná",
+    "São Paulo"
+  ],
+  "MT": [
+    "Amazonas",
+    "Goiás",
+    "Mato Grosso do Sul",
+    "Pará",
+    "Rondônia",
+    "Tocantins"
+  ],
+  "PA": [
+    "Amapá",
+    "Amazonas",
+    "Maranhão",
+    "Mato Grosso",
+    "Roraima",
+    "Tocantins"
+  ],
+  "PB": [
+    "Bahia",
+    "Ceará",
+    "Pernambuco",
+    "Piauí",
+    "Rio Grande do Norte"
+  ],
+  "PE": [
+    "Alagoas",
+    "Bahia",
+    "Ceará",
+    "Paraíba",
+    "Piauí"
+  ],
+  "PI": [
+    "Bahia",
+    "Ceará",
+    "Maranhão",
+    "Paraíba",
+    "Pernambuco",
+    "Tocantins"
+  ],
+  "PR": [
+    "Mato Grosso do Sul",
+    "Santa Catarina",
+    "São Paulo"
+  ],
+  "RJ": [
+    "Espírito Santo",
+    "Minas Gerais",
+    "São Paulo"
+  ],
+  "RN": [
+    "Ceará",
+    "Paraíba"
+  ],
+  "RO": [
+    "Acre",
+    "Amazonas",
+    "Mato Grosso"
+  ],
+  "RR": [
+    "Amazonas",
+    "Pará"
+  ],
+  "RS": [
+    "Amazonas",
+    "Santa Catarina"
+  ],
+  "SC": [
+    "Amazonas",
+    "Paraná",
+    "Rio Grande do Sul"
+  ],
+  "SE": [
+    "Alagoas",
+    "Bahia"
+  ],
+  "SP": [
+    "Mato Grosso do Sul",
+    "Minas Gerais",
+    "Paraná",
+    "Rio de Janeiro"
+  ],
+  "TO": [
+    "Bahia",
+    "Goiás",
+    "Maranhão",
+    "Mato Grosso",
+    "Pará",
+    "Piauí"
+  ]
+}
