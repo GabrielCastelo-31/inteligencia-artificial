@@ -92,7 +92,7 @@ class MazeGUI:
         self.goal = None
 
         # busca/anim
-        self.algorithm = "bfs"          # "bfs" | "dfs" | "astar"
+        self.algorithm = "astar"          # "bfs" | "dfs" | "astar"
         self.frontier = deque()         # para bfs/dfs
         self.open_heap = []             # para A*: heap de (f, tie, (r,c))
         self.open_set_cells = set()     # para desenhar a fronteira do A*
@@ -202,7 +202,7 @@ class MazeGUI:
         self.f_score.clear()
         self.animating = False
         if not soft:
-            self.algorithm = "bfs"
+            self.algorithm = "astar"
 
     # -------------------------
     # busca
