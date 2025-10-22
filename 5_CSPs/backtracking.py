@@ -71,7 +71,6 @@ pos = nx.spring_layout(G, k=5, method='energy')
 nx.draw(G, pos, with_labels=True, node_color=node_colors,
         font_weight='bold', font_color='white', font_size=10)
 plt.show()
-
 # PROFESSOR: Caso não seja possível visualizar o grafo na tela, comente a linha plt.show() acima
 # e descomente as linhas abaixo para salvar a imagem em um arquivo png
 # plt.savefig("5_CSPs/grafo_coloring.png", dpi=200)
