@@ -3,7 +3,7 @@
 HMM (Hidden Markov Model) didático — Clima (oculto) vs. Guarda-chuva (observado)
 Autor: Gabriel Henrique Castelo Costa
 Descrição:
-  - Implementa: forward, backward, posterior marginals, Viterbi, log-likelihood.
+  - Implementa: forward, backward, posterior marginals, Viterbi.
 Como executar:
     python3 -m venv env
     source env/bin/activate  # Linux/Mac
