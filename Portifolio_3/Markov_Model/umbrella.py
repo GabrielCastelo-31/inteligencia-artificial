@@ -1,7 +1,7 @@
 
 """
 HMM (Hidden Markov Model) didático — Clima (oculto) vs. Guarda-chuva (observado)
-Autor: Gabriel
+Autor: Gabriel Henrique Castelo Costa
 Descrição:
   - Implementa: forward, backward, posterior marginals, Viterbi, log-likelihood.
 Como executar:
