@@ -1,5 +1,5 @@
 # inteligencia-artificial
-Repositório destinado aos projetos desenvolvidos na disciplina **FGA0221- Inteligência Artificial** do curso de Engenharia de Software da Universidade de Brasília (UnB).
+Repositório destinado aos projetos desenvolvidos na disciplina **FGA0221- Inteligência Artificial** do curso de Engenharia de Software da Universidade de Brasília (UnB), ministrada pelo professor Fabiano Araujo Soares.
 
 ## Como rodar os projetos
 Cada projeto possui suas próprias dependências e requisitos. Recomenda-se criar um ambiente virtual Python para cada projeto utilizando `venv` ou `conda`. Em seguida, instalar as dependências listadas no arquivo `requirements.txt` de cada projeto. Exemplo usando `venv`:
